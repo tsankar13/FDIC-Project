@@ -1,4 +1,4 @@
-FDIC Risk Assessment: 2025 Institutional Liquidity & Capital Adequacy
+#FDIC Risk Assessment: 2025 Institutional Liquidity & Capital Adequacy
 Authors
 Tharun Sankar – Data Science, Computer Science, Economics third-year at University of California, Davis
 

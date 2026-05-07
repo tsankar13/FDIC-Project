@@ -3,7 +3,7 @@ Authors:
 
 ### Tharun Sankar – Data Science, Computer Science, Economics third-year at University of California, Davis
 
-### Philip Rybkin – Managerial Economics, Statistics third-year at University of California, Davis
+### Philip Rybkin – Managerial Economics, Statistics Third-year at University of California, Davis
 
 ## Project Overview
 

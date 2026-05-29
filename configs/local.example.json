@@ -1,0 +1,10 @@
+{
+  "input_dir": "data/raw/fdic",
+  "output_dir": "backend/artifacts",
+  "mode": "both",
+  "random_seed": 42,
+  "max_clusters": 8,
+  "label_column": "FAILED",
+  "outlier_quantile_low": 0.01,
+  "outlier_quantile_high": 0.99
+}

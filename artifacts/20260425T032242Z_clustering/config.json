@@ -1,0 +1,21 @@
+{
+  "feature_columns_required": [
+    "RBCT1J",
+    "ASSET",
+    "INTINC",
+    "EINTEXP",
+    "NAASSET",
+    "P9ASSET",
+    "NTLS"
+  ],
+  "feature_rows": 4144,
+  "input_dir": "FDIC - ML /ML",
+  "input_rows": 4388,
+  "label_column": "FAILED",
+  "max_clusters": 8,
+  "mode": "clustering",
+  "outlier_quantile_high": 0.99,
+  "outlier_quantile_low": 0.01,
+  "output_dir": "backend/artifacts",
+  "random_seed": 42
+}

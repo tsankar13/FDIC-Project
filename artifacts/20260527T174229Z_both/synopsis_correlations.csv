@@ -1,7 +1,0 @@
-,feature_left,feature_right,correlation,abs_correlation
-1,Capital_Ratio,Texas_Ratio,-0.13961951944046713,0.13961951944046713
-3,Net_Interest_Margin,Texas_Ratio,0.08392194708007872,0.08392194708007872
-0,Capital_Ratio,Net_Interest_Margin,-0.07971239136574579,0.07971239136574579
-2,Capital_Ratio,Charge_Off_Ratio,,
-4,Net_Interest_Margin,Charge_Off_Ratio,,
-5,Texas_Ratio,Charge_Off_Ratio,,

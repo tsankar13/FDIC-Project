@@ -1,2 +1,0 @@
-[console_scripts]
-fdic-ml = fdic_ml_pipeline.cli:main

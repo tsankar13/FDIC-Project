@@ -128,13 +128,6 @@ Each run creates `backend/artifacts/<timestamp>_<mode>/`:
 | `supervised_feature_explanations.csv` | supervised | Native coefficient/tree weights |
 | `supervised_permutation_importance.csv` | supervised | Model-agnostic permutation importance |
 
-## Report Tiering
-
-| Tier | Location | Purpose |
-|------|----------|---------|
-| Primary | `backend/artifacts/reports/primary/` | Locally generated summary reports |
-| Secondary | `backend/artifacts/reports/secondary/` | Locally generated diagnostics + visualizations |
-
 ## Configuration
 
 Runs are driven by JSON config files in `backend/configs/`:

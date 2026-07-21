@@ -2,7 +2,7 @@
 
 ## Overview
 
-The FDIC ML pipeline is a modular, config-driven system organized into a single Python package under `backend/src/fdic_ml_pipeline/`.
+The FDIC ML pipeline is a modular, config-driven system organized into a single Python package under `backend/src/`.
 
 ```mermaid
 flowchart TB
